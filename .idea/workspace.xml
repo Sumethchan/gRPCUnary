@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e44b4ec-a867-404c-9427-badb29341ce9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MygRPC_test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MygRPC_test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MygRPC_test/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MygRPC_test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MygRPC_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MygRPCtest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MygRPCtest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MygRPCtest/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MygRPCtest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MygRPCtest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testgrpc/Testgrpc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/grpc-java-course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/annotations.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/auth.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/backend.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/billing.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/client.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/config_change.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/consumer.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/context.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/control.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/distribution.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/documentation.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/endpoint.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/field_behavior.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/http.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/httpbody.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/label.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/launch_stage.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/log.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/logging.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/metric.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/monitored_resource.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/monitoring.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/quota.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/resource.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/service.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/source_info.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/system_parameter.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/api/usage.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/cloud/audit/audit_log.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/geo/type/viewport.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/logging/type/http_request.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/logging/type/log_severity.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/longrunning/operations.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/any.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/api.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/compiler/plugin.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/descriptor.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/duration.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/empty.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/field_mask.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/source_context.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/struct.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/timestamp.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/type.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/wrappers.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/rpc/code.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/rpc/context/attribute_context.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/rpc/error_details.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/rpc/status.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/type/calendar_period.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/type/color.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/type/date.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/type/datetime.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/type/dayofweek.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/type/expr.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/type/fraction.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/type/latlng.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/type/money.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/type/postal_address.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/type/quaternion.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/type/timeofday.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/grpc/com/proto/dummy/DummyServiceGrpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/grpc/com/proto/greet/GreetServiceGrpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/dummy/Dummy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/dummy/DummyMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/dummy/DummyMessageOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/greet/Greet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/greet/GreetRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/greet/GreetRequestOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/greet/GreetResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/greet/GreetResponseOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/greet/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/proto/greet/GreetingOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/simplesteph/grpc/greeting/client/GreetingClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/simplesteph/grpc/greeting/server/GreetingServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/simplesteph/grpc/greeting/server/GreetingServerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/proto/dummy/dummy.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/proto/greet/greet.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MygRPC/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MygRPC/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="grpc-java-course" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="grpc-java-course" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="grpc-java-course" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="grpc-java-course" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1xwOFd0WyjocOHou4qRhchMlmE2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.simplesteph.grpc.greeting.client" />
+      <recent name="" />
+      <recent name="haha" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GreetingClient">
+    <configuration name="GreetingClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.simplesteph.grpc.greeting.client.GreetingClient" />
+      <module name="grpc-java-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.simplesteph.grpc.greeting.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreetingServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.simplesteph.grpc.greeting.server.GreetingServer" />
+      <module name="grpc-java-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.simplesteph.grpc.greeting.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="grpc-java-course [generateProto]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="generateProto" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.grpc-java-course [generateProto]" />
+        <item itemvalue="Application.GreetingClient" />
+        <item itemvalue="Application.GreetingServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e44b4ec-a867-404c-9427-badb29341ce9" name="Default Changelist" comment="" />
+      <created>1631262581574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631262581574</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
